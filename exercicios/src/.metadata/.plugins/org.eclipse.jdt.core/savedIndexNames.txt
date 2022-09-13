@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\felip\Documents\cursos\Udemy\Java-Completo\exercicios\Course\src\.metadata\.plugins\org.eclipse.jdt.core
